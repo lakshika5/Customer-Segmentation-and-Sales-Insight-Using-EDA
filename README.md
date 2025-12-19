@@ -37,8 +37,3 @@ Features
 
 
 
-
-
-
-This README makes your project look professional, clear, and impactful.
-👉 Would you like me to also create a short LinkedIn post version of this description so you can share the project publicly in a concise way?
